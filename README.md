@@ -8,3 +8,7 @@ Lorem ipsum.
 ## Cambio con github desktop
 
 DAFAFASDFASD
+
+## Cambio con VS Code
+
+qerqwerqwreqewr
